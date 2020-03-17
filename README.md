@@ -17,3 +17,7 @@ Edit AndroidManifest<br>
 Edit App : build.gradle <br>
 
  implementation 'androidx.biometric:biometric:1.0.0-alpha03'
+ 
+ 
+
+ 
