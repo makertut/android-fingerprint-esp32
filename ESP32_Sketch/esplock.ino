@@ -1,7 +1,7 @@
 #include<WiFi.h>
 
-#define WIFI_STA_NAME "JumeJume_Channel_2.4G"
-#define WIFI_STA_PASS "0801629807A"
+#define WIFI_STA_NAME "SSID"
+#define WIFI_STA_PASS "Password"
 
 WiFiServer server(80);
 
