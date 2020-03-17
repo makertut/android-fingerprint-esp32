@@ -4,3 +4,8 @@ how to use Fingerprint scanner Android Mobile phone for a door unlock using ESP3
 Create Android App <br>
 New Projects -> Empty Activity <br>
 ![maker Tutor](https://1.bp.blogspot.com/-gsUyGJEfXOg/XnCTcwE7QQI/AAAAAAABcdg/efhNZ9ldd2I_qlscIkhKkHQUSt7gv3L6QCNcBGAsYHQ/s400/Screen%2BShot%2B2563-03-17%2Bat%2B16.01.16.png)
+
+Configure Your Project <br>
+Minimum SDK : API 28: Android 9.0 ( Pie) <br>
+
+![maker Tutor](https://1.bp.blogspot.com/-UBwCj2UCNlY/XnCTc3oLy6I/AAAAAAABcdk/PYZ5CmJRcHo2dldu8DYqRt8vKVY-JvJcQCNcBGAsYHQ/s400/Screen%2BShot%2B2563-03-17%2Bat%2B16.01.41.png)
